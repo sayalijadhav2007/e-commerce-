@@ -1,0 +1,46 @@
+name: dual_role_delivery_app
+description: Dual-role delivery app (User + Delivery Man) with Clean Architecture, Riverpod, GoRouter, Material 3.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+
+  # State management
+  flutter_riverpod: ^2.5.1
+
+  # Navigation
+  go_router: ^14.2.0
+
+  # Maps
+  flutter_map: ^6.1.0
+  location: ^6.0.2
+  flutter_polyline_points: ^2.0.0
+  geocoding: ^3.0.0
+  latlong2: ^0.9.1
+
+  # Material 3 is built into Flutter; no extra package needed
+
+  # Optional utilities (keep minimal for now)
+  collection: ^1.18.0
+  http: ^1.2.1
+  shared_preferences: ^2.2.3
+  sqflite: ^2.3.3
+  sqflite_common_ffi: ^2.3.3
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/

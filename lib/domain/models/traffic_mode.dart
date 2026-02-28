@@ -1,0 +1,4 @@
+enum TrafficMode {
+  auto,
+  manual,
+}

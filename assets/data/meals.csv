@@ -1,0 +1,30 @@
+id,name,price,rating,description,category_id,image_path
+meal-1,Jumbo Burger,180,4.8,Juicy beef patty with cheddar lettuce and signature sauce,burgers_fast,https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=80
+meal-2,Pepperoni Pizza,450,4.6,Stone baked crust with pepperoni mozzarella and tomato sauce,pizza_italian,https://images.unsplash.com/photo-1628840042765-356cdaad6e6c?auto=format&fit=crop&w=1200&q=80
+meal-3,Crispy Chicken,350,4.7,Golden fried chicken with crunchy coating and spicy dip,burgers_fast,https://images.unsplash.com/photo-1562967916-eb82221dfb92?auto=format&fit=crop&w=1200&q=80
+meal-4,Avocado Salad,320,4.5,Fresh greens avocado cherry tomatoes and citrus vinaigrette,healthy_veg,https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80
+meal-5,Truffle Pasta,600,4.6,Creamy pasta tossed with truffle oil parmesan and herbs,pizza_italian,https://images.unsplash.com/photo-1642887799801-4814ff0d1d6c?auto=format&fit=crop&w=1200&q=80
+meal-6,Chocolate Lava Cake,150,4.9,Warm chocolate cake with molten center and vanilla scoop,desserts_sweets,https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=80
+
+burger-1,Classic Cheeseburger,220,4.6,Classic cheeseburger with melted cheddar and sauce,burgers_fast,https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=80
+burger-2,Veggie Burger,180,4.4,Grilled veggie patty with fresh lettuce and tomato,burgers_fast,https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&w=1200&q=80
+burger-3,Hot Dog,160,4.2,Grilled hot dog with mustard and onions,burgers_fast,https://images.unsplash.com/photo-1550959341-3e6e0d5655f8?auto=format&fit=crop&w=1200&q=80
+burger-4,French Fries,120,4.5,Crispy golden fries with seasoning,burgers_fast,https://images.unsplash.com/photo-1541592106381-b31e9674c0e5?auto=format&fit=crop&w=1200&q=80
+burger-5,Fried Chicken,320,4.6,Spicy fried chicken pieces with crunchy crust,burgers_fast,https://images.unsplash.com/photo-1562967916-eb82221dfb92?auto=format&fit=crop&w=1200&q=80
+
+pizza-1,Margherita Pizza,380,4.4,Classic margherita with basil and mozzarella,pizza_italian,https://images.unsplash.com/photo-1574071318508-1cdbab80d174?auto=format&fit=crop&w=1200&q=80
+pizza-2,Pasta Alfredo,420,4.5,Creamy alfredo pasta with parmesan,pizza_italian,https://images.unsplash.com/photo-1642887799801-4814ff0d1d6c?auto=format&fit=crop&w=1200&q=80
+pizza-3,Lasagna,460,4.6,Layered pasta with rich meat sauce and cheese,pizza_italian,https://images.unsplash.com/photo-1617877305578-6a71a791b0c5?auto=format&fit=crop&w=1200&q=80
+pizza-4,Garlic Bread,190,4.3,Toasted garlic bread with butter and herbs,pizza_italian,https://images.unsplash.com/photo-1611171711918-a6894b28785e?auto=format&fit=crop&w=1200&q=80
+
+veg-1,Caesar Salad,300,4.4,Crisp romaine with parmesan and croutons,healthy_veg,https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80
+veg-2,Greek Salad,320,4.5,Fresh salad with feta olives and herbs,healthy_veg,https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80
+veg-3,Avocado Toast,350,4.5,Toasted bread with avocado and seasoning,healthy_veg,https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=80
+veg-4,Fruit Bowl,250,4.3,Seasonal fruits served fresh,healthy_veg,https://images.unsplash.com/photo-1569591159212-b02ea8a9f239?auto=format&fit=crop&w=1200&q=80
+veg-5,Grilled Veggies,280,4.4,Grilled seasonal vegetables with herbs,healthy_veg,https://images.unsplash.com/photo-1606857521015-7f9fcf423740?auto=format&fit=crop&w=1200&q=80
+
+dessert-1,Chocolate Cake,220,4.7,Rich chocolate sponge with ganache,desserts_sweets,https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=80
+dessert-2,Ice Cream Sundae,200,4.5,Vanilla ice cream with toppings,desserts_sweets,https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=1200&q=80
+dessert-3,Donuts,140,4.4,Glazed donuts assortment,desserts_sweets,https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&w=1200&q=80
+dessert-4,Cupcakes,160,4.3,Assorted cupcakes with frosting,desserts_sweets,https://images.unsplash.com/photo-1562440499-64c8a0d878b2?auto=format&fit=crop&w=1200&q=80
+dessert-5,Macarons,300,4.6,Colorful French macarons,desserts_sweets,https://images.unsplash.com/photo-1558327768566-2b5e0a0c9367?auto=format&fit=crop&w=1200&q=80
